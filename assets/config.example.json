@@ -1,0 +1,9 @@
+{
+  "_说明": "复制成 config.json 再填。不填也能上课：AI 提问会自动降级成本地示例答案。",
+  "openaiBaseUrl": "https://api.deepseek.com/v1",
+  "openaiApiKey": "",
+  "openaiModel": "deepseek-chat",
+  "maxTokens": 400,
+  "timeoutMs": 45000,
+  "reasoningEffort": "none"
+}
